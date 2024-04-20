@@ -19,7 +19,7 @@
    1. `mkdir .vscode` の実行
    2. `touch .vscode/settings.json` の実行
    3. `editor.formatOnSave` を有効にする
-7. poetry add flask
+7. `poetry add flask` の実行
 
 ## ローカルサーバーの立ち上げ
 
